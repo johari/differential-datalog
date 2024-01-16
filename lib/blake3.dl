@@ -1,0 +1,1 @@
+extern function blake3_hash(str: string): string
